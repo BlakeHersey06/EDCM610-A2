@@ -1,13 +1,13 @@
-body{background-color: red;}
-h1{color: white;text-align: center;}
-button{background-color: black;color: white;align-content: center;}
-p{color: white;text-align: center;}
-summary{color: white;text-align: center;}
+body{background-color: pink;}
+h1{color: black;text-align: right;}
+button{background-color: black;color: white;align-content: right;}
+p{color: black;text-align: right;}
+summary{color: black;text-align: right;}
 a{color: black;}
-footer{color: white;}
-div{align-content: center;}
-details{align-content: center;}
-div{align-items: center;}
-header{color: white;text-align: left;}
-img{align-items: center;}
-#buttons{margin-left: 450px;} 
+footer{color: black;text-align: right;}
+div{align-content: right;}
+details{align-content: right;}
+div{align-items: right;}
+header{color: black;text-align: right;}
+img{align-items: right;}
+#buttons{margin-left: 915px;} 
